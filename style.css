@@ -1,0 +1,47 @@
+h1{color:blue}
+
+body{
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     color:black;
+     margin:auto;
+}
+
+#banner{
+        background-color:blue;
+        text-align:center;
+        color:white;
+        padding:60px;
+}
+
+#nav{
+     background-color: #1D2731;
+     padding:10px;
+}
+
+#nav a{
+       padding: 10px 20px;
+       color:white;
+       text-decoration:none;
+       text-align:left;
+}
+
+.classe1{
+         width:1300px;
+         margin:0;
+         background-color: lightcyan;
+         padding: 0 20px 20px 20px;
+         border:1px solid transparent;
+}
+
+section{
+        padding-left: 03em;
+        padding-right: 03em;
+}
+
+#contato{
+          margin-top:30px;
+          padding:30px;
+          border-top: 1px solid black;
+          font-size: large;
+}
+
